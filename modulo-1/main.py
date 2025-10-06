@@ -1,11 +1,13 @@
 '''
+Nomeclaturas
+PASCALCase
+CamelCase
+-> Snake_Case <-
+Kebab-Case
 
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
+Comentários, podem ser usados como apostrofos ou cerquilhas
 '''
 
-#print ('Hello World')
-print ('oi mi world')
+
+# Exibe o texto na tela
+print ('olá mi worl')
