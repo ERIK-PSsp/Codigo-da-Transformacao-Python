@@ -11,3 +11,5 @@ Comentários, podem ser usados como apostrofos ou cerquilhas
 
 # Exibe o texto na tela
 print ('olá mi worl')
+
+input ('qual é o seu nome?')
